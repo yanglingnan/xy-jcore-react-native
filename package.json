@@ -1,14 +1,14 @@
 {
   "name"       : "jcore-react-native",
   "description": "React Native JCore component for Android and iOS",
-  "homepage"   : "https://github.com/yanglingnan/xy-jcore-react-native.git",
+  "homepage"   : "https://github.com/jpush/jcore-react-native",
   "author"     : "wicked.tc130",
   "license"    : "ISC",
   "main"       : "index.js",
   "version"    : "1.8.0",
   "repository" : {
     "type": "git",
-    "url": "https://github.com/yanglingnan/xy-jcore-react-native.git"
+    "url": "https://github.com/jpush/jcore-react-native"
   },
   "keywords"   : [
     "react-native",
